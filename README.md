@@ -1,5 +1,7 @@
 # TSN_BehaviorRecognition_ForwardCalculation
 
+(如果您觉得这个项目帮助到您，麻烦给颗星星) (If you think this project helps you, please give a star)
+
 
 TSN 是来自于乔宇老师课题组的一篇文章，在ECCV 2016 上发表。 文章的链接：https://arxiv.org/abs/1608.00859
 
