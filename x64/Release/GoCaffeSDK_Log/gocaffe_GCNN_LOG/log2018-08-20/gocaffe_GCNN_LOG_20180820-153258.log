@@ -1,0 +1,11 @@
+Log file created at: 2018/08/20 15:32:58
+Running on machine: DESKTOP-K62HJ96
+Log line format: [DIWEF]mmdd hh:mm:ss.uuuuuu file:line] msg
+INFO  20180820 15:32:58.165999  Caffe log init succeed
+INFO  20180820 15:32:58.425999  INFO: "VERSION: 20180815_0_cudnn, Revision of svn: 2007."
+INFO  20180820 15:32:59.845999  INFO: "Attempting to upgrade input file specified using deprecated input fields: ../model/tsn_bn_inception_flow_deploy_no_dropout.prototxt"
+INFO  20180820 15:32:59.845999  INFO: "Successfully upgraded file specified using deprecated input fields."
+WARNING  20180820 15:32:59.845999  WARN: "Note that future Caffe releases will only support input layers and not input fields."
+INFO  20180820 15:32:59.865999  INFO: "Creating layer input"
+INFO  20180820 15:32:59.865999  INFO: "Creating Layer input"
+INFO  20180820 15:32:59.865999  INFO: "input -> data"

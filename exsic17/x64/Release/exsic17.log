@@ -1,0 +1,32 @@
+﻿生成启动时间为 2018/10/31 15:11:53。
+     1>项目“D:\opencv实践_GPU\exsic17  TSN异常行为检测算法实现\exsic17\exsic17.vcxproj”在节点 2 上(Rebuild 个目标)。
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /GL /D _CRT_SECURE_NO_WARNINGS /D _MBCS /Gm- /EHsc /MD /GS /Gy /Zc:wchar_t /Zc:forScope /Fo"x64\Release\\" /Fd"x64\Release\vc120.pdb" /Gd /TP /errorReport:prompt main.cpp
+         main.cpp
+     1>main.cpp(104): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>main.cpp(105): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>main.cpp(113): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>main.cpp(114): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>main.cpp(136): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>main.cpp(137): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+     1>main.cpp(139): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+     1>main.cpp(140): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+     1>main.cpp(227): warning C4101: “result”: 未引用的局部变量
+     1>main.cpp(396): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+     1>main.cpp(437): warning C4244: “=”: 从“int64”转换到“unsigned long”，可能丢失数据
+     1>main.cpp(441): warning C4244: “=”: 从“int64”转换到“unsigned long”，可能丢失数据
+     1>main.cpp(442): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+     1>main.cpp(562): warning C4244: “初始化”: 从“int64”转换到“double”，可能丢失数据
+     1>main.cpp(575): warning C4244: “=”: 从“int64”转换到“double”，可能丢失数据
+     1>main.cpp(411): warning C4101: “filename1”: 未引用的局部变量
+     1>main.cpp(410): warning C4101: “filename”: 未引用的局部变量
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"D:\opencv实践_GPU\exsic17  TSN异常行为检测算法实现\x64\Release\exsic17.exe" /NOLOGO opencv_aruco340.lib opencv_bgsegm340.lib opencv_bioinspired340.lib opencv_calib3d340.lib opencv_ccalib340.lib opencv_core340.lib opencv_cudaarithm340.lib opencv_cudabgsegm340.lib opencv_cudacodec340.lib opencv_cudafeatures2d340.lib opencv_cudafilters340.lib opencv_cudaimgproc340.lib opencv_cudalegacy340.lib opencv_cudaobjdetect340.lib opencv_cudaoptflow340.lib opencv_cudastereo340.lib opencv_cudawarping340.lib opencv_cudev340.lib opencv_datasets340.lib opencv_dnn340.lib opencv_dpm340.lib opencv_features2d340.lib opencv_flann340.lib opencv_fuzzy340.lib opencv_highgui340.lib opencv_imgcodecs340.lib opencv_imgproc340.lib opencv_img_hash340.lib opencv_line_descriptor340.lib opencv_ml340.lib opencv_objdetect340.lib opencv_optflow340.lib opencv_phase_unwrapping340.lib opencv_photo340.lib opencv_plot340.lib opencv_reg340.lib opencv_rgbd340.lib opencv_saliency340.lib opencv_shape340.lib opencv_stereo340.lib opencv_stitching340.lib opencv_structured_light340.lib opencv_superres340.lib opencv_surface_matching340.lib opencv_text340.lib opencv_tracking340.lib opencv_ts340.lib opencv_video340.lib opencv_videoio340.lib opencv_videostab340.lib opencv_viz340.lib opencv_xfeatures2d340.lib opencv_ximgproc340.lib opencv_xobjdetect340.lib opencv_xphoto340.lib cublas.lib cuda.lib cublas_device.lib cudnn.lib cudart.lib GoCaffeSDK.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\opencv实践_GPU\exsic17  TSN异常行为检测算法实现\x64\Release\exsic17.pdb" /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\opencv实践_GPU\exsic17  TSN异常行为检测算法实现\x64\Release\exsic17.lib" /MACHINE:X64 x64\Release\main.obj
+         正在生成代码
+         已完成代码的生成
+         exsic17.vcxproj -> D:\opencv实践_GPU\exsic17  TSN异常行为检测算法实现\x64\Release\exsic17.exe
+     1>已完成生成项目“D:\opencv实践_GPU\exsic17  TSN异常行为检测算法实现\exsic17\exsic17.vcxproj”(Rebuild 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:05.42

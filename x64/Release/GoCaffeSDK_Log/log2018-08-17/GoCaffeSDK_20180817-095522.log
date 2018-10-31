@@ -1,0 +1,6 @@
+Log file created at: 2018/08/17 09:55:22
+Running on machine: DESKTOP-K62HJ96
+Log line format: [DIWEF]mmdd hh:mm:ss.uuuuuu file:line] msg
+INFO  20180817 09:55:22.753000  INFO: "GO_Caffe_Init -> succeed."
+INFO  20180817 09:55:23.385999  INFO: "SetDeviceMode() -> Caffe::GPU."
+ERROR  20180817 09:55:24.685999  ERROR: "LoadModel() -> catch (...). "

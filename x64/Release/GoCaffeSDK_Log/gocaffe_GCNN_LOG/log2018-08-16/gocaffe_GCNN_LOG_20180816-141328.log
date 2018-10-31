@@ -1,0 +1,6 @@
+Log file created at: 2018/08/16 14:13:28
+Running on machine: DESKTOP-K62HJ96
+Log line format: [DIWEF]mmdd hh:mm:ss.uuuuuu file:line] msg
+INFO  20180816 14:13:28.661999  Caffe log init succeed
+INFO  20180816 14:13:29.325000  INFO: "VERSION: 20180815_0_cudnn, Revision of svn: 2007."
+ERROR  20180816 14:13:32.734999  ERROR: "ReadProtoFromTextFile, File not found: model/tsn_bn_inception_flow_deploy.prototxt"

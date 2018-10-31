@@ -1,0 +1,6 @@
+Log file created at: 2018/08/16 13:44:07
+Running on machine: DESKTOP-K62HJ96
+Log line format: [DIWEF]mmdd hh:mm:ss.uuuuuu file:line] msg
+INFO  20180816 13:44:07.208999  Caffe log init succeed
+INFO  20180816 13:44:07.859999  INFO: "VERSION: 20180815_0_cudnn, Revision of svn: 2007."
+ERROR  20180816 13:44:09.029999  ERROR: "ReadProtoFromTextFile, File not found: F:\test_video_frame_flow\tsn_bn_inception_flow_deploy_no_dropout.prototxt"

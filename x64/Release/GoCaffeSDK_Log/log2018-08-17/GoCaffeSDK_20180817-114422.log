@@ -1,0 +1,9 @@
+Log file created at: 2018/08/17 11:44:22
+Running on machine: DESKTOP-K62HJ96
+Log line format: [DIWEF]mmdd hh:mm:ss.uuuuuu file:line] msg
+INFO  20180817 11:44:22.240999  INFO: "GO_Caffe_Init -> succeed."
+INFO  20180817 11:44:22.905999  INFO: "SetDeviceMode() -> Caffe::GPU."
+INFO  20180817 11:44:27.225999  INFO: "LoadModel() -> Set nDeviceId: 0"
+INFO  20180817 11:44:29.003000  INFO: "GoCaffe::~GoCaffe()."
+INFO  20180817 11:44:29.503999  INFO: "GO_Caffe_Release -> Finish Release"
+ERROR  20180817 11:44:29.677000  ERROR: "CalNet() -> num_channels_ != channels. (-17891602, 10)."

@@ -1,0 +1,4 @@
+Log file created at: 2018/08/21 10:45:07
+Running on machine: DESKTOP-K62HJ96
+Log line format: [DIWEF]mmdd hh:mm:ss.uuuuuu file:line] msg
+INFO  20180821 10:45:07.171999  INFO: "GO_Caffe_Init -> succeed."

@@ -1,0 +1,6 @@
+Log file created at: 2018/08/20 15:52:31
+Running on machine: DESKTOP-K62HJ96
+Log line format: [DIWEF]mmdd hh:mm:ss.uuuuuu file:line] msg
+INFO  20180820 15:52:31.495999  INFO: "GO_Caffe_Init -> succeed."
+INFO  20180820 15:52:32.004999  INFO: "SetDeviceMode() -> Caffe::GPU."
+INFO  20180820 15:52:36.685999  INFO: "LoadModel() -> Set nDeviceId: 0"

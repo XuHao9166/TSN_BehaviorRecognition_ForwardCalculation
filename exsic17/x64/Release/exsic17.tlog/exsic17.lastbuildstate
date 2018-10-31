@@ -1,0 +1,2 @@
+#TargetFrameworkVersion=v4.0:PlatformToolSet=v120:EnableManagedIncrementalBuild=false:VCToolArchitecture=Native32Bit
+Release|x64|D:\opencv实践_GPU\exsic17  TSN异常行为检测算法实现\|

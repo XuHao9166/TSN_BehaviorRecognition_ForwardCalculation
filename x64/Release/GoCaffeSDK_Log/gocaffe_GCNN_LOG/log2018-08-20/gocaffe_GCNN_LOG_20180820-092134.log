@@ -1,0 +1,5 @@
+Log file created at: 2018/08/20 09:21:34
+Running on machine: DESKTOP-K62HJ96
+Log line format: [DIWEF]mmdd hh:mm:ss.uuuuuu file:line] msg
+INFO  20180820 09:21:34.779999  Caffe log init succeed
+INFO  20180820 09:21:35.095999  INFO: "VERSION: 20180815_0_cudnn, Revision of svn: 2007."
